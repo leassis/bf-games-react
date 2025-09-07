@@ -1,4 +1,4 @@
-11import Game3 from './components/Game3';
+import Game3 from './components/Game3';
 
 function App() {
   return (
