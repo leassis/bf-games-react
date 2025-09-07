@@ -4,7 +4,8 @@ import svgr from 'vite-plugin-svgr';
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/bf-games-react',
   plugins: [react(), 
-    svgr()
+    svgr(),
   ],
 })
